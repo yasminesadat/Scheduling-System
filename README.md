@@ -1,6 +1,7 @@
 # Scheduling-System
 This project implements a scheduling system in Prolog to assign slots to the available teaching assistants (TAs). 
 
+
 The following should be noted:
 -Each lab should be assigned exactly one TA.
 
